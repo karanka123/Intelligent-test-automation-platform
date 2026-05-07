@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+sqlalchemy
+psycopg2-binary
+
+playwright
+
+beautifulsoup4
+requests
+
+python-dotenv
+
+openai
+
+pydantic
+
