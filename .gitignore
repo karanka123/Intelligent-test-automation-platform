@@ -1,0 +1,9 @@
+# Look inside the subfolder and ignore the venv folder there
+Intelligent-test-automation-platform/venv/
+Intelligent-test-automation-platform/.venv/
+
+# Global matches (ignores these anywhere they appear in any folder)
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/captured_urls.txt
